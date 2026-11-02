@@ -1,0 +1,121 @@
+{
+  "id": "C",
+  "name": "Codex Suprasliensis, Vita of St. Aninas the Wonderworker, PROIEL sent_id 254358",
+  "tradition": "старославянский",
+  "source_text": "и҅ въꙁдꙑхаѧ съ тихостиѭ҄ вь҆ꙁдвиже рѫцѣ свои на небо и҅ рече слово просто великомъ гласомъ",
+  "reference_translation": "И, тихо вздохнув, он поднял руки к небу и произнёс ясное слово громким голосом.",
+  "translation_note": "Редакционный современный перевод для теста; интерпретацию синтаксической связи причастия следует сверить с более широким контекстом.",
+  "gold_morphology": [
+    {
+      "form": "и҅",
+      "lemma": "и",
+      "upos": "CCONJ",
+      "features": "_",
+      "deprel": "cc"
+    },
+    {
+      "form": "въꙁдꙑхаѧ",
+      "lemma": "въздꙑхати",
+      "upos": "VERB",
+      "features": "Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act",
+      "deprel": "advcl"
+    },
+    {
+      "form": "съ",
+      "lemma": "съ",
+      "upos": "ADP",
+      "features": "_",
+      "deprel": "case"
+    },
+    {
+      "form": "тихостиѭ҄",
+      "lemma": "тихость",
+      "upos": "NOUN",
+      "features": "Case=Ins|Gender=Fem|Number=Sing",
+      "deprel": "obl"
+    },
+    {
+      "form": "вь҆ꙁдвиже",
+      "lemma": "въздвигнѫти",
+      "upos": "VERB",
+      "features": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act",
+      "deprel": "root"
+    },
+    {
+      "form": "рѫцѣ",
+      "lemma": "рѫка",
+      "upos": "NOUN",
+      "features": "Case=Acc|Gender=Fem|Number=Dual",
+      "deprel": "obj"
+    },
+    {
+      "form": "свои",
+      "lemma": "свои",
+      "upos": "DET",
+      "features": "Case=Acc|Gender=Fem|Number=Dual|Person=3|Poss=Yes|Reflex=Yes",
+      "deprel": "det"
+    },
+    {
+      "form": "на",
+      "lemma": "на",
+      "upos": "ADP",
+      "features": "_",
+      "deprel": "case"
+    },
+    {
+      "form": "небо",
+      "lemma": "небо",
+      "upos": "NOUN",
+      "features": "Case=Acc|Gender=Neut|Number=Sing",
+      "deprel": "obl"
+    },
+    {
+      "form": "и҅",
+      "lemma": "и",
+      "upos": "CCONJ",
+      "features": "_",
+      "deprel": "cc"
+    },
+    {
+      "form": "рече",
+      "lemma": "рещи",
+      "upos": "VERB",
+      "features": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act",
+      "deprel": "conj"
+    },
+    {
+      "form": "слово",
+      "lemma": "слово",
+      "upos": "NOUN",
+      "features": "Case=Acc|Gender=Neut|Number=Sing",
+      "deprel": "obj"
+    },
+    {
+      "form": "просто",
+      "lemma": "простъ",
+      "upos": "ADJ",
+      "features": "Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short",
+      "deprel": "amod"
+    },
+    {
+      "form": "великомъ",
+      "lemma": "великъ",
+      "upos": "ADJ",
+      "features": "Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short",
+      "deprel": "amod"
+    },
+    {
+      "form": "гласомъ",
+      "lemma": "гласъ",
+      "upos": "NOUN",
+      "features": "Case=Ins|Gender=Masc|Number=Sing",
+      "deprel": "obl"
+    }
+  ],
+  "provenance": {
+    "corpus": "UD Old Church Slavonic PROIEL held-out testset",
+    "url": "https://github.com/UniversalDependencies/UD_Old_Church_Slavonic-PROIEL",
+    "local_file": "data/corpora/ud-testsets/cu_proiel-ud-test.conllu",
+    "license": "CC BY-NC-SA 4.0; see adjacent LICENSE-cu-PROIEL.txt"
+  }
+}

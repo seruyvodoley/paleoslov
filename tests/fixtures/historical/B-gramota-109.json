@@ -1,0 +1,19 @@
+{
+  "id": "B",
+  "name": "Новгородская берестяная грамота №109",
+  "tradition": "древнерусский, новгородский; 1100–1120",
+  "source_text": "ѡтъ жизномира къ микоуле: коупилъ еси робоу плъскове: а ныне мѧ въ томъ ѧла кънѧгꙑни: а ныне сѧ дружина по мѧ пороучила: а ныне ка: посъли къ тому мужеви грамотоу: е ли оу него роба: а се ти хочоу: коне купивъ: и кънѧжъ мужъ въсадивъ: та на съводы: а ты атче еси не възалъ коунъ: техъ: а не емли: ничътоже оу него:",
+  "reference_translation": "Письмо Жизномира Микуле: ты купил рабыню в Пскове, и из-за этого княгиня задержала меня; дружина поручилась за меня. Теперь пошли тому человеку письмо и спроси, есть ли у него рабыня. Я хочу купить коней, посадить на коня княжеского человека и отправиться на судебное разбирательство. Если ты ещё не взял те деньги, ничего у него не бери.",
+  "alternatives": [
+    "«коне» может передавать коней/лошадей; точное число обсуждается в изданиях.",
+    "«съводы» в опубликованном переводе передано как очные ставки; судебный контекст поддерживает такое толкование.",
+    "«кънѧжъ мужъ въсадивъ» допускает «посадив княжеского человека [на коня]» или «снарядив княжеского человека»."
+  ],
+  "provenance": {
+    "url": "https://gramoty.ru/birchbark/document/show/novgorod/109/",
+    "date": "1100–1120; stratigraphic late 11th to mid-10s 12th century",
+    "transcription_source": "Gramoty.ru, normalized text, lines 31–38",
+    "translation_source": "Published Russian translation shown on the document page; benchmark wording above is an independent paraphrase with alternatives retained.",
+    "image_rights": "Image is available on source site; reuse rights are not established here, so no image is copied into this repository."
+  }
+}

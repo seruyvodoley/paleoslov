@@ -1,0 +1,28 @@
+{
+  "data_dir": "/home/achimrabus/htr_gui/dhlab-slavistik/data/pylaia_church_slavonic",
+  "output_dir": "/home/achimrabus/htr_gui/dhlab-slavistik/models/pylaia_church_slavonic_20251103_222215",
+  "img_height": 128,
+  "batch_size": 32,
+  "num_workers": 4,
+  "cnn_filters": [
+    12,
+    24,
+    48,
+    48
+  ],
+  "cnn_poolsize": [
+    2,
+    2,
+    0,
+    2
+  ],
+  "rnn_hidden": 256,
+  "rnn_layers": 3,
+  "dropout": 0.5,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0,
+  "max_epochs": 250,
+  "early_stopping": 15,
+  "augment": true,
+  "use_multi_gpu": false
+}

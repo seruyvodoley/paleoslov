@@ -1,0 +1,537 @@
+{
+  "id": "A",
+  "name": "Молитва Господня, Мф. 6:9–13",
+  "tradition": "старославянский, Codex Zographensis",
+  "source_text": "Ѡ҃че нашь ꙇже еси на небесехъ да с҃титъ сѧ ꙇмѧ твое да придетъ ц҃рствие твое да бѫдетъ вол҄ѣ твоѣ ѣко на н҃си ꙇ на земл҄и хлѣбъ нашь настоѩшт даждь намъ днесь ꙇ отъпоусти намъ дльгꙑ нашѧ ѣко ꙇ мꙑ отъпоуштаемъ дльжьникомъ нашимъ ꙇ не въведи насъ въ напасть нъ ꙇзбави нꙑ отъ неприѣзни ѣко твое естъ ц҃рствие ꙇ сила ꙇ с҃лав въ вѣк вѣк[омъ аминь",
+  "reference_translation": "Отче наш, сущий на небесах! Да святится имя Твоё; да придёт Царство Твоё; да будет воля Твоя и на земле, как на небе; хлеб наш насущный дай нам сегодня; и прости нам долги наши, как и мы прощаем должникам нашим; и не введи нас в искушение, но избавь нас от лукавого.",
+  "translation_note": "Контрольный современный русский пересказ для сверки с Синодальным переводом Мф 6:9–13; не является оценкой одной модели.",
+  "gold_morphology": [
+    {
+      "form": "Ѡ҃че",
+      "lemma": "отьць",
+      "upos": "NOUN",
+      "features": "Case=Voc|Gender=Masc|Number=Sing",
+      "deprel": "vocative",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "нашь",
+      "lemma": "нашь",
+      "upos": "DET",
+      "features": "Case=Voc|Gender=Masc|Number=Sing|Person=1|Poss=Yes",
+      "deprel": "det",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "ꙇже",
+      "lemma": "иже",
+      "upos": "PRON",
+      "features": "Case=Nom|Gender=Masc|Number=Sing|PronType=Rel",
+      "deprel": "nsubj",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "еси",
+      "lemma": "бꙑти",
+      "upos": "AUX",
+      "features": "Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "deprel": "cop",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "на",
+      "lemma": "на",
+      "upos": "ADP",
+      "features": "_",
+      "deprel": "case",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "небесехъ",
+      "lemma": "небо",
+      "upos": "NOUN",
+      "features": "Case=Loc|Gender=Neut|Number=Plur",
+      "deprel": "acl",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "да",
+      "lemma": "да",
+      "upos": "ADV",
+      "features": "_",
+      "deprel": "advmod",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "с҃титъ",
+      "lemma": "свѧтити",
+      "upos": "VERB",
+      "features": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "deprel": "root",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "сѧ",
+      "lemma": "себе",
+      "upos": "PRON",
+      "features": "Case=Acc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes",
+      "deprel": "expl:pv",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "ꙇмѧ",
+      "lemma": "имѧ",
+      "upos": "NOUN",
+      "features": "Case=Nom|Gender=Neut|Number=Sing",
+      "deprel": "nsubj",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "твое",
+      "lemma": "твои",
+      "upos": "DET",
+      "features": "Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes",
+      "deprel": "det",
+      "ref": "MATT_6.9"
+    },
+    {
+      "form": "да",
+      "lemma": "да",
+      "upos": "ADV",
+      "features": "_",
+      "deprel": "advmod",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "придетъ",
+      "lemma": "прити",
+      "upos": "VERB",
+      "features": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "deprel": "root",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "ц҃рствие",
+      "lemma": "цѣсарьствиѥ",
+      "upos": "NOUN",
+      "features": "Case=Nom|Gender=Neut|Number=Sing",
+      "deprel": "nsubj",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "твое",
+      "lemma": "твои",
+      "upos": "DET",
+      "features": "Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes",
+      "deprel": "det",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "да",
+      "lemma": "да",
+      "upos": "ADV",
+      "features": "_",
+      "deprel": "advmod",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "бѫдетъ",
+      "lemma": "бꙑти",
+      "upos": "AUX",
+      "features": "Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act",
+      "deprel": "root",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "вол҄ѣ",
+      "lemma": "волꙗ",
+      "upos": "NOUN",
+      "features": "Case=Nom|Gender=Fem|Number=Sing",
+      "deprel": "nsubj",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "твоѣ",
+      "lemma": "твои",
+      "upos": "DET",
+      "features": "Case=Nom|Gender=Fem|Number=Sing|Person=2|Poss=Yes",
+      "deprel": "det",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "ѣко",
+      "lemma": "ꙗко",
+      "upos": "ADV",
+      "features": "_",
+      "deprel": "advmod",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "на",
+      "lemma": "на",
+      "upos": "ADP",
+      "features": "_",
+      "deprel": "case",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "н҃си",
+      "lemma": "небо",
+      "upos": "NOUN",
+      "features": "Case=Loc|Gender=Neut|Number=Sing",
+      "deprel": "obl",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "ꙇ",
+      "lemma": "и",
+      "upos": "CCONJ",
+      "features": "_",
+      "deprel": "cc",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "на",
+      "lemma": "на",
+      "upos": "ADP",
+      "features": "_",
+      "deprel": "case",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "земл҄и",
+      "lemma": "землꙗ",
+      "upos": "NOUN",
+      "features": "Case=Loc|Gender=Fem|Number=Sing",
+      "deprel": "obl",
+      "ref": "MATT_6.10"
+    },
+    {
+      "form": "хлѣбъ",
+      "lemma": "хлѣбъ",
+      "upos": "NOUN",
+      "features": "Case=Acc|Gender=Masc|Number=Sing",
+      "deprel": "obj",
+      "ref": "MATT_6.11"
+    },
+    {
+      "form": "нашь",
+      "lemma": "нашь",
+      "upos": "DET",
+      "features": "Case=Acc|Gender=Masc|Number=Sing|Person=1|Poss=Yes",
+      "deprel": "det",
+      "ref": "MATT_6.11"
+    },
+    {
+      "form": "настоѩшт",
+      "lemma": "настоꙗти",
+      "upos": "VERB",
+      "features": "Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act",
+      "deprel": "acl",
+      "ref": "MATT_6.11"
+    },
+    {
+      "form": "даждь",
+      "lemma": "дати",
+      "upos": "VERB",
+      "features": "Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "deprel": "root",
+      "ref": "MATT_6.11"
+    },
+    {
+      "form": "намъ",
+      "lemma": "мꙑ",
+      "upos": "PRON",
+      "features": "Case=Dat|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs",
+      "deprel": "obl:arg",
+      "ref": "MATT_6.11"
+    },
+    {
+      "form": "днесь",
+      "lemma": "дьньсь",
+      "upos": "ADV",
+      "features": "_",
+      "deprel": "advmod",
+      "ref": "MATT_6.11"
+    },
+    {
+      "form": "ꙇ",
+      "lemma": "и",
+      "upos": "CCONJ",
+      "features": "_",
+      "deprel": "cc",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "отъпоусти",
+      "lemma": "отъпоустити",
+      "upos": "VERB",
+      "features": "Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "deprel": "root",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "намъ",
+      "lemma": "мꙑ",
+      "upos": "PRON",
+      "features": "Case=Dat|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs",
+      "deprel": "obl:arg",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "дльгꙑ",
+      "lemma": "длъгъ",
+      "upos": "NOUN",
+      "features": "Case=Acc|Gender=Masc|Number=Plur",
+      "deprel": "obj",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "нашѧ",
+      "lemma": "нашь",
+      "upos": "DET",
+      "features": "Case=Acc|Gender=Masc|Number=Plur|Person=1|Poss=Yes",
+      "deprel": "det",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "ѣко",
+      "lemma": "ꙗко",
+      "upos": "ADV",
+      "features": "PronType=Rel",
+      "deprel": "advcl",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "ꙇ",
+      "lemma": "и",
+      "upos": "ADV",
+      "features": "_",
+      "deprel": "advmod",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "мꙑ",
+      "lemma": "мꙑ",
+      "upos": "PRON",
+      "features": "Case=Nom|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs",
+      "deprel": "nsubj",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "отъпоуштаемъ",
+      "lemma": "отъпоущати",
+      "upos": "VERB",
+      "features": "Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "deprel": "advcl",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "дльжьникомъ",
+      "lemma": "длъжьникъ",
+      "upos": "NOUN",
+      "features": "Case=Dat|Gender=Masc|Number=Plur",
+      "deprel": "obl:arg",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "нашимъ",
+      "lemma": "нашь",
+      "upos": "DET",
+      "features": "Case=Dat|Gender=Masc|Number=Plur|Person=1|Poss=Yes",
+      "deprel": "det",
+      "ref": "MATT_6.12"
+    },
+    {
+      "form": "ꙇ",
+      "lemma": "и",
+      "upos": "CCONJ",
+      "features": "_",
+      "deprel": "cc",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "не",
+      "lemma": "не",
+      "upos": "ADV",
+      "features": "Polarity=Neg",
+      "deprel": "advmod",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "въведи",
+      "lemma": "въвести",
+      "upos": "VERB",
+      "features": "Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "deprel": "root",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "насъ",
+      "lemma": "мꙑ",
+      "upos": "PRON",
+      "features": "Case=Gen|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs",
+      "deprel": "obj",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "въ",
+      "lemma": "въ",
+      "upos": "ADP",
+      "features": "_",
+      "deprel": "case",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "напасть",
+      "lemma": "напасть",
+      "upos": "NOUN",
+      "features": "Case=Acc|Gender=Fem|Number=Sing",
+      "deprel": "obl",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "нъ",
+      "lemma": "нъ",
+      "upos": "CCONJ",
+      "features": "_",
+      "deprel": "cc",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "ꙇзбави",
+      "lemma": "избавити",
+      "upos": "VERB",
+      "features": "Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "deprel": "conj",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "нꙑ",
+      "lemma": "мꙑ",
+      "upos": "PRON",
+      "features": "Case=Acc|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs",
+      "deprel": "obj",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "отъ",
+      "lemma": "отъ",
+      "upos": "ADP",
+      "features": "_",
+      "deprel": "case",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "неприѣзни",
+      "lemma": "неприꙗзнь",
+      "upos": "NOUN",
+      "features": "Case=Gen|Gender=Fem|Number=Sing",
+      "deprel": "obl",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "ѣко",
+      "lemma": "ꙗко",
+      "upos": "SCONJ",
+      "features": "_",
+      "deprel": "mark",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "твое",
+      "lemma": "твои",
+      "upos": "PRON",
+      "features": "Case=Nom|Gender=Neut|Number=Sing|Person=2|Poss=Yes",
+      "deprel": "advcl",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "естъ",
+      "lemma": "бꙑти",
+      "upos": "AUX",
+      "features": "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+      "deprel": "cop",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "ц҃рствие",
+      "lemma": "цѣсарьствиѥ",
+      "upos": "NOUN",
+      "features": "Case=Nom|Gender=Neut|Number=Sing",
+      "deprel": "nsubj",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "ꙇ",
+      "lemma": "и",
+      "upos": "CCONJ",
+      "features": "_",
+      "deprel": "cc",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "сила",
+      "lemma": "сила",
+      "upos": "NOUN",
+      "features": "Case=Nom|Gender=Fem|Number=Sing",
+      "deprel": "conj",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "ꙇ",
+      "lemma": "и",
+      "upos": "CCONJ",
+      "features": "_",
+      "deprel": "cc",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "с҃лав",
+      "lemma": "слава",
+      "upos": "NOUN",
+      "features": "Case=Nom|Gender=Fem|Number=Sing",
+      "deprel": "conj",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "въ",
+      "lemma": "въ",
+      "upos": "ADP",
+      "features": "_",
+      "deprel": "case",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "вѣк",
+      "lemma": "вѣкъ",
+      "upos": "NOUN",
+      "features": "Case=Acc|Gender=Masc|Number=Sing",
+      "deprel": "obl",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "вѣк[омъ",
+      "lemma": "вѣкъ",
+      "upos": "NOUN",
+      "features": "Case=Dat|Gender=Masc|Number=Plur",
+      "deprel": "nmod",
+      "ref": "MATT_6.13"
+    },
+    {
+      "form": "аминь",
+      "lemma": "аминъ",
+      "upos": "INTJ",
+      "features": "_",
+      "deprel": "discourse",
+      "ref": "MATT_6.13"
+    }
+  ],
+  "provenance": {
+    "corpus": "UD Old Church Slavonic PROIEL held-out testset, sent_id 293684, 293687, 293688, 293690, 293691, 293693",
+    "url": "https://github.com/UniversalDependencies/UD_Old_Church_Slavonic-PROIEL",
+    "local_file": "data/corpora/ud-testsets/cu_proiel-ud-test.conllu",
+    "license": "CC BY-NC-SA 4.0; see adjacent LICENSE-cu-PROIEL.txt",
+    "parallel_reference": "https://www.bible.com/bible/400/MAT.6.9-13.SYNOD"
+  }
+}

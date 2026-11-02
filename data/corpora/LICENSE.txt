@@ -1,0 +1,7 @@
+The treebank is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License.
+
+The complete license text is available at:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Source: https://universaldependencies.org/treebanks/orv_torot/index.html
+Raw file: https://raw.githubusercontent.com/UniversalDependencies/UD_Old_East_Slavic-TOROT/master/orv_torot-ud-train.conllu

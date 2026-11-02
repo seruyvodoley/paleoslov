@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paleoslov"
+version = "0.1.1"
+description = "Локальный филологический скрипторий для исторических славянских текстов"
+requires-python = ">=3.12"
+dependencies = ["PySide6-Essentials>=6.8", "httpx>=0.27", "pydantic>=2.8", "beautifulsoup4>=4.12", "pypdfium2>=4,<6", "Pillow>=10", "ufal.udpipe>=1.4.0.1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pyinstaller>=6.10"]
+
+[project.scripts]
+paleoslov = "paleoslov.app.main:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
